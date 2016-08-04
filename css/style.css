@@ -1,15 +1,14 @@
 #song1{
-	float: left;
-    padding-left: 200px;
-    padding-bottom: 30px;
+	padding-bottom: 30px;
+    display: inline-block;
 }
 
 #song_container{
 	text-align: center;
+    width: 100%;
 }
 
 #song2{
-	float: left;
-    padding-left: 80px;
-    padding-bottom: 30px;
+	padding-bottom: 30px;
+    display: inline-block;
 }
